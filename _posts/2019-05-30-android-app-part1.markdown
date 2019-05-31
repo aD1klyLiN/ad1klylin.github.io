@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Android-приложение. Часть 1"
-date:   2019-05-04 11:15:00 +0300
+date:   2019-05-30 11:15:00 +0300
 categories: android
 ---
 # Вступление
